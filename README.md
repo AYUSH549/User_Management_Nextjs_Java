@@ -1,4 +1,4 @@
-# Nextjs and Java Spring Boot App
+# Nextjs and Java Spring Boot App 
 
 A full-stack web application built with Next.js for the client-side and Java Spring Boot and Spring Security for the server-side. The application is designed to provide users with an easy and secure way to manage their data.
 
@@ -37,10 +37,7 @@ JWT_SECRET=
 - Easy configuration with environment variables
 - Robust error handling and logging
 
-## Contributing
-
-Contributions to the project are welcome and appreciated. If you find a bug or have a feature request, please open an issue. If you would like to contribute code, please fork the repository and submit a pull request.
-
+Ayush Rai 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
